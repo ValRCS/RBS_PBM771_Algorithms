@@ -1,0 +1,14 @@
+Argentia Brandon 2000
+Argentia Calgary 1500
+Brandon Dartmouth 1500
+Brandon Edmonton 1000
+Calgary Fredericton 500
+Calgary Edmonton 2000
+Dartmouth Guelph 800
+Edmonton Halifax 1200
+Fredericton Guelph 600
+Guelph Halifax 700
+Halifax Inuvik 1500
+Edmonton Inuvik 1000
+Dartmouth Fredericton 400
+Calgary Dartmouth 1000
